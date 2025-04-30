@@ -1,7 +1,7 @@
 # Function & Moudle in Python</br>
 Here is Two task</br>
 <b>First Task : Calculate Factorial Using a Function</b></br>
-File name is : factorial.py</br>
+<b>File name is : factorial.py</b></br>
 
 The factorial function calculates the factorial of a number recursively.</br>
 
@@ -12,6 +12,7 @@ For other values, it calls itself with n-1 and multiplies.</br>
 The program then calls this function with a sample input (e.g., 5) and prints the result.</br>
 
 <b>Second Task : Using the Math Module for Calculations</b></br>
+<b>File name is : MathFun.py</b></br>
 The program takes a number input from the user.</br>
 
 It uses the math module to calculate:</br>
